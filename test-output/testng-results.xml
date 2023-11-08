@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[hiiii]]>
+    </line>
+    <line>
+      <![CDATA[hello]]>
+    </line>
+    <line>
+      <![CDATA[by]]>
+    </line>
+    <line>
+      <![CDATA[haha]]>
+    </line>
+    <line>
+      <![CDATA[byby]]>
+    </line>
+    <line>
+      <![CDATA[hello]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2023-11-07T20:12:22 IST" name="Default suite" finished-at="2023-11-07T20:12:23 IST" duration-ms="246">
+    <groups>
+    </groups>
+    <test started-at="2023-11-07T20:12:22 IST" name="Default test" finished-at="2023-11-07T20:12:23 IST" duration-ms="246">
+      <class name="TestNG.Demo_testng">
+        <test-method signature="m1()[pri:0, instance:TestNG.Demo_testng@741a8937]" started-at="2023-11-07T20:12:22 IST" name="m1" finished-at="2023-11-07T20:12:22 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hiiii]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m1 -->
+        <test-method signature="m2()[pri:0, instance:TestNG.Demo_testng@741a8937]" started-at="2023-11-07T20:12:22 IST" name="m2" finished-at="2023-11-07T20:12:22 IST" duration-ms="8" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hello]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m2 -->
+        <test-method signature="m3()[pri:0, instance:TestNG.Demo_testng@741a8937]" started-at="2023-11-07T20:12:22 IST" name="m3" finished-at="2023-11-07T20:12:22 IST" duration-ms="16" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[by]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m3 -->
+        <test-method signature="m4()[pri:0, instance:TestNG.Demo_testng@741a8937]" started-at="2023-11-07T20:12:22 IST" name="m4" finished-at="2023-11-07T20:12:23 IST" duration-ms="5" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[haha]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m4 -->
+        <test-method signature="m5()[pri:0, instance:TestNG.Demo_testng@741a8937]" started-at="2023-11-07T20:12:23 IST" name="m5" finished-at="2023-11-07T20:12:23 IST" duration-ms="15" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[byby]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m5 -->
+        <test-method signature="m6()[pri:0, instance:TestNG.Demo_testng@741a8937]" started-at="2023-11-07T20:12:23 IST" name="m6" finished-at="2023-11-07T20:12:23 IST" duration-ms="24" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[hello]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- m6 -->
+      </class> <!-- TestNG.Demo_testng -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
