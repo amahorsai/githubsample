@@ -10,6 +10,7 @@ public class getCurrenturl {
 		driver.get("https://www.flipkart.com/");
 		String URL=driver.getCurrentUrl();
 		System.out.println(URL);
+		System.out.println(URL);
 	}
 
 }
