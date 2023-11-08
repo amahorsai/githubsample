@@ -8,6 +8,7 @@ public class Get { // it is use to load the application in the browsers
 		System.setProperty("webdriver.edge.driver", "C:\\Users\\Sai\\Downloads\\edgedriver_win32\\msedgedriver.exe");
 		WebDriver driver = new EdgeDriver();
 		driver.get("https://www.flipkart.com");
+		System.out.println("this is the my 1st change of github");
 	}
 
 }
